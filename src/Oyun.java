@@ -18,7 +18,7 @@ public class Oyun implements Runnable { // taban kodlar burda
     private BufferStrategy bs; //???????????????
     private Graphics g; // bi nevi paintbrush grafik sýnýfana ait nesne
 
-    //ALANLAR BUARAAYA
+    //ALANLAR BUARAAYA ///
 
     private State oyunAlani;
     private State menuAlani;
